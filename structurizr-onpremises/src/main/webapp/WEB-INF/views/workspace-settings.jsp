@@ -17,7 +17,7 @@
 
             <div class="row workspaceDetailSection">
                 <div class="col-sm-6">
-                    <h4>Client-side encryption <span class="smaller">(<a href="/help/client-side-encryption" target="_blank">help</a>)</span></h4>
+                    <h4>Client-side encryption <span class="smaller">(<a href="https://structurizr.com/help/client-side-encryption" target="_blank">help</a>)</span></h4>
 
                     <c:if test="${workspace.editable && not workspace.locked}">
                         <c:choose>
